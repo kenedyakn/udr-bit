@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>my git sample</title>
+		<title>my git sample the good one</title>
 	</head>
 	<body>
 		<h2>Hello world app</h2>
