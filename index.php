@@ -1,8 +1,10 @@
 <html>
 	<head>
-		<title>my git sample</title>
+		<title>my git sample the good one</title>
 	</head>
 	<body>
+		<h2>Hello world app</h2>
+		<p>Fill in form to login</p>
 		<form action="process-form.php" method="POST">
 			<input type="text" name="username" placeholder="Username">
 			<input type="password" name="password" placeholder="Password">
